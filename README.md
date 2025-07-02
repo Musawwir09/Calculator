@@ -1,4 +1,4 @@
-# Calculator
+# CodSoft_Calculator
 <br>
 This is a simple and fully functional calculator web application built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The design is responsive and user-friendly, suitable for both desktop and mobile screens.
 
